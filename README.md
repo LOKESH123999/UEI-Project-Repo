@@ -323,5 +323,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 👥 Team
 Team Name: SIX SHADOWS
 SIH 2025 - Smart India Hackathon
-
-Now you have large, visual technology logos (100x100 pixels each) that display the actual symbols for Python, React, Docker, Kubernetes, and all other technologies. These logos are sourced from the official devicons repository and other trusted sources, showing the recognizable symbols rather than just text badges.
